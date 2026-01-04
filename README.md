@@ -4,6 +4,10 @@
 Frontend Engineer • Full Stack Developer • Open Source Contributor • App Developer
 </h3>
 
+
+
+
+
 <p align="left">
 I am a results-driven <b>Full Stack Developer</b> with a strong specialization in building scalable, performant, and visually engaging web applications using <b>Next.js</b> and <b>React.js</b>.  
 <br /><br />
